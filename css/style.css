@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+
+}
+ header nav{
+     border: 1px solid black;
+    /* border: 1px solid black;
+     width: 100%;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+     margin:  20px; */
+ }
+
+ /* @media screen and (min-width:786px){
+    header{
+        display: flex;
+        background: cornflowerblue;
+      
+    }
+    ul{
+        display: flex;
+        flex-direction: column;
+    }
+  } */
