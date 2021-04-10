@@ -8,7 +8,10 @@ class TemplateExample extends HTMLElement {
     constructor(){
         super()
 
-        this.innerHTML = `<h1>Hello World</h1>`
+        this.innerHTML = `
+        <header>Hello World</header>
+        <main>sahohoh</main>
+        `
     }
 }
 

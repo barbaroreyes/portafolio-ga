@@ -1,8 +1,8 @@
 # Project Overview
 
-**PROJECT NAME:** dfadfadfsdfadf
+**PROJECT NAME:** Portafolio-Web
 
-**PROJECT AUTHOR:** lkjlkjljlkadfsd
+**PROJECT AUTHOR:** Barbaro reyes
 
 ## Project Schedule
 
