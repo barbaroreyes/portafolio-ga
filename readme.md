@@ -27,7 +27,7 @@ Use this section to describe your final project and perhaps any links to relevan
 ## Google Sheet
 
 Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
-
+https://docs.google.com/spreadsheets/d/1Ni_GyfAJSOjG4CN5CK3YO-ruB7rCRCh-aCDulo3q_UE/edit#gid=0
 ## Portfolio I want to Emulate
 
 Search and compare at least 3 profile web sites.  Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site.

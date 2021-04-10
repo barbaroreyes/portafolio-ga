@@ -2,18 +2,16 @@ $.ajax('https://spreadsheets.google.com/feeds/list/1Ni_GyfAJSOjG4CN5CK3YO-ruB7rC
 .then(data => {
     console.log(data)
     //map over data
-    const pojects = data.feed.entry.map(item =>{
+    const projects = data.feed.entry.map(item =>{
         return {  description: item.gsx$description.$t,
                  urllive: item.gsx$urllive.$t,
-                   
-
-                //    githuburl: item.gsx$githuburl.$t,
-                   image: item.gsx$image.$t,
-                //    urlLive: item.gsx$urlLive.$t,
+                 githuburl: item.gsx$githuburl.$t,
+                image: item.gsx$image.$t,
+                
                    
                 }
     })
-    console.log(pojects)
+    console.log(projects)
 
 
 
