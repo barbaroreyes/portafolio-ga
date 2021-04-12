@@ -2,7 +2,7 @@
 
 **PROJECT NAME:** Porta-Web
 
-**PROJECT AUTHOR:** Barbaro reyes
+**PROJECT AUTHOR:** Barbaro Reyes
 
 ## Project Schedule
 
@@ -21,11 +21,10 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 
 ## Project Description
-
+All of Me
 
 ## Google Sheet
 
-Include link to your google sheet here.  Here is the sample [Joe had used in class]
 https://docs.google.com/spreadsheets/d/1Ni_GyfAJSOjG4CN5CK3YO-ruB7rCRCh-aCDulo3q_UE/edit#gid=0
 ## Portfolio I want to Emulate
 
@@ -43,7 +42,7 @@ Link To Site  | One Thing I'd Like To Incorporate |
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
-- [Mobile](https://i.imgur.com/P3iBEZf.jpg)
+- [Mobile](https://imgur.com/xEujRq6)
 - [Desktop](https://i.imgur.com/xpOWo0E.jpg)
 
 Wireframing Resources:
