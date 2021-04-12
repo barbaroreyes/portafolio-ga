@@ -12,7 +12,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
+|Day 1| Project Description | completed
 |Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Day 4| MVP & Bug Fixes | Incomplete
@@ -43,7 +43,7 @@ Link To Site  | One Thing I'd Like To Incorporate |
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
 - [Mobile](https://imgur.com/xEujRq6)
-- [Desktop](https://i.imgur.com/xpOWo0E.jpg)
+- [Desktop](https://imgur.com/Mzh2mV2)
 
 Wireframing Resources:
 
