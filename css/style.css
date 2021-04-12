@@ -27,9 +27,23 @@ header nav{
     
 }
 main{
+border: 1px solid;
 grid-column: 1/5;
-display:flex;
+display: flex;
 flex-wrap: wrap;
+
+}
+main .one{
+    border: 1px solid;
+    width: 70%;
+    padding: 10px;
+}
+main>div{
+    
+}
+main .two{
+    
+    border: 1px solid;
 }
 ul{
     display: none;
