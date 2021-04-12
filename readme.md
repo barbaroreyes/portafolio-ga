@@ -43,7 +43,7 @@ Link To Site  | One Thing I'd Like To Incorporate |
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
 - [Mobile](https://imgur.com/xEujRq6)
-- [Desktop](https://imgur.com/Mzh2mV2)
+- [Desktop](https://imgur.com/ji02Cgz)
 
 Wireframing Resources:
 
