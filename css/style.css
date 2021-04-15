@@ -40,6 +40,9 @@ header .logo
   letter-spacing: 2px;
   transition: 0.6s;
 }
+header .logo:hover{
+  color: rgb(39, 33, 33);
+}
 header ul
 {
   position: relative;
@@ -72,6 +75,17 @@ header ul li a
   display: flex;
   justify-content: center;
   align-items: center;
+  animation: animate 2s linear infinite;
+}
+.banner:before{
+  content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: url('../images/rain.png');
+	animation: rain .2s linear infinite;
 }
 .banner h2
 {
@@ -123,12 +137,12 @@ p
 }
 .btn
 {
+ 
   position: relative;
   display: inline-block;
   padding: 10px 30px;
-  border: 1px solid #000;
   text-decoration: none;
-  background: #000;
+  background: rgb(0, 0, 0);
   color: #fff;
 }
 .services
@@ -164,6 +178,9 @@ p
   margin-bottom: 10px;
   text-transform: uppercase;
   font-weight: 700;
+}
+.pictures{
+  width: 250px;
 }
 .stats
 {
@@ -210,31 +227,32 @@ p
 .workBx .brand
 {
   position: relative;
-  
   min-height: 300px;
   width: 250px;
   margin: 0 auto;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
+  flex-direction: column;
   align-items: center;
   color: black;
+  box-shadow: 5px 3px;
 }
 .workBx .brand:hover
 {
-  background: #000;
+  background: rgb(103, 99, 119);
 }
 .workBx .brand a
 {
   text-decoration: none;
-  color: rgba(231, 159, 159, 0.4);
+  color:#fff;
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 18px;
   letter-spacing: 2px;
 }
 .workBx .brand:hover a
 {
   text-decoration: none;
-  color: rgb(43, 13, 13);
+  color: rgb(216, 210, 224);
 }
 
 .teamBx
@@ -415,6 +433,30 @@ p
 {
   display: none;
 }
+ 
+
+@keyframes rain
+{
+	0%
+	{
+		background-position: 0 0;
+	}
+	100%
+	{
+		background-position: 20% 100%;
+	}
+}
+@keyframes animate
+{
+	0%
+	{
+		filter: hue-rotate(0deg);
+	}
+	100%
+	{
+		filter: hue-rotate(360deg);
+	}
+}
 @media (max-width: 768px)
 {
   .toggle
@@ -561,6 +603,7 @@ p
   }
   .workBx .brand
   {
+    border: 1ox solid;
     background: #4978ff;
   }
 }
