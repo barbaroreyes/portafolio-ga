@@ -166,18 +166,18 @@
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
         </div>
         <div class="conactForm">
-          <form>
+          <form onsubmit="alert('Submited!');return false">
             <div class="row100">
               <div class="inputBx50">
-                <input type="text" name="" placeholder="Full Name">
+                <input type="text" name="" placeholder="Full Name" required>
               </div>
               <div class="inputBx50">
-                <input type="text" name="" placeholder="Email Address">
+                <input type="email" name="" placeholder="Email Address" required>
               </div>
             </div>
             <div class="row100">
               <div class="inputBx100">
-                <textarea placeholder="Message"></textarea>
+                <textarea placeholder="Message" required maxlength="20"></textarea>
               </div>
             </div>
             <div class="row100">
